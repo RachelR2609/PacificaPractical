@@ -1,0 +1,6 @@
+@PacificaPractical_HostAddress = http://localhost:5093
+
+GET {{PacificaPractical_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
